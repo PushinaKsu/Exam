@@ -1,10 +1,9 @@
-package ru.inno.course.exam;
+package ru.inno.course.exam.Task4;
 
 import java.util.Random;
 import java.util.Scanner;
 
 public class RPS {
-
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         Random random = new Random();
